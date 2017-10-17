@@ -1,0 +1,26 @@
+Analista de Segurança
+
+Atividades principais: 
+    • Projeto e manutenção do esquema de segurança da rede, incluindo a segurança de equipamentos (acesso físico), dos dados (acesso não-autorizado) e de sistemas operacionais de clientes e servidores; este profissional propõe, implementa e monitora a política de segurança quanto ao uso de recursos computacionais. 
+
+Atividades adicionais:
+    • Configuração e manutenção da segurança de rede;
+    • Monitoramento constante de aspectos novos relacionados à segurança (novas técnicas de invasão, novos bugs de segurança encontrados em produtos na rede, etc). 
+
+Pré-requisitos normalmente exigidos:
+    • Profundo conhecimento do protocolo TCP/IP e dos sistemas operacionais de clientes e de servidores existentes na empresa;
+    • Em algumas empresas, exige-se que o Analista de Segurança também conheça as linguagens de programação utilizadas pela empresa, este profissional é bem mais raro de se encontrar no mercado e seu salário é proporcionalmente maior. 
+    • Profundo conhecimento de configuração e “atualização de regras” em firewalls; 
+    • Conhecimento de protocolos típicos de inter-redes (Frame Relay, X25, ATM, etc.); 
+    • Uso de ferramentas de monitoramento de tráfego de rede, incluindo sniffers. 
+
+Exigência de nível superior: 
+    • Nem sempre, embora recomendável. 
+
+Certificações recomendadas: 
+    • MCSE (com ênfase nos 3 exames de segurança);
+    • Certificações de segurança (Cisco, CheckPoint, etc). 
+
+O papel do Analista de Segurança  se tornou muito importante nos últimos anos, onde a preocupação com a proteção da Informação está se tornando cada vez maior. Inclusive também, pela evolução dos métodos de ataques e exploração de vulnerabilidades de sistemas e recursos que temos hoje dentro da área de Tecnologia da Informação.
+Não é só uma questão técnica, mas muito conceitual e política. Um Analista de Segurança atua buscando minimizar os riscos corporativos quanto ao roubo de informações, na detecção de vulnerabilidades em sistemas, servidores, aplicações, realiza análises de risco e monta planos para mitigá-los. Isso inclui também a parte de auditoria e controle de processos, procurando encontrar não conformidades e falhas de processos e corrigi-los. 
+Quanto à parte mais técnica, pode atuar na criação e configuração de ambientes seguros de rede físicos e lógicos, definir e manter as políticas de segurança de rede, gerenciar equipamentos e softwares que previnem o ambiente contra ataques como: firewall, servidores de antivírus, filtros de spam, gerenciamento de patches, etc.
