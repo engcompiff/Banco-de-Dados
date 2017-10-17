@@ -4,14 +4,30 @@ Praticante de arquitetura de dados, que se preocupa em esboçar, criar, implemen
 
 Define como os dados serão armazenados, utilizados, integrados e gerenciados por diferentes entidades de dados e sistemas de TI.
 
-De acordo com o Data Body Management of Knowledge (DMBOK), o arquiteto de dados "fornece um vocabulário comercial comum padrão, expressa requisitos estratégicos de dados, descreve projetos integrados de alto nível para atender a esses requisitos e se alinha com a estratégia empresarial e a arquitetura comercial relacionada".
+De acordo com o Data Body Management of Knowledge (DMBOK), o arquiteto de dados "fornece um vocabulário comercial comum padrão, 
+expressa requisitos estratégicos de dados, descreve projetos integrados de alto nível para atender a esses requisitos e se alinha 
+com a estratégia empresarial e a arquitetura comercial relacionada".
 
 Responsabilidades
 
 * Organiza dados em um nível macro/micro
 * Provê um modelo de dados lógico com elementos e regras comerciais necessárias para a criação de regras de arquitetura de dados.
 
+Habilidades Indispensáveis
+
+* Entender o ciclo de vida de desenvolvimento de sistemas; abordagens de gerenciamento de projeto de software;
+* Aprofundar em modelagem de dados e projeção de banco de dados; Entender todas as fases do modelamento de dados, desde conceitualização 
+a otimização do banco de dados;
+* Conceber e retratar a ideia geral de dados;
+* Operar de forma proativa e com desempenho satisfatório em uma organização, enfatizando metodologia, modelamento e liderença, 
+além disso deve ser tecnologicamente e politicamente neutro.
 
 
+Exemplo de Qualificações requeridas em algumas organizações para o profissional da área:
 
-Source: https://en.wikipedia.org/wiki/Data_architect
+* Diploma em Bacharelado em Engenheria da Computação ou campo da ciência relacionado
+* 5 anos ou mais de experiência em análise de dados ou função de gerenciamento
+* Conheciemento de C e PHP
+* Habilidade certificada para trabalhar com sistemas distribuídos
+* Proficiência com Oracle
+* Estar apto a desenvolver soluções criativas para um determinado problema
